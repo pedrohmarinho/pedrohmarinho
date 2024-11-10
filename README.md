@@ -1,8 +1,8 @@
-# Olá, eu sou Pedro Marinho! 👋
+# Olá, eu sou Pedro Marinho! 👩‍🚀
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
-Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas** apaixonado por criar soluções inovadoras. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo constante de aprender e evoluir.
+Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas**. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo constante de aprender e evoluir.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na FAESA
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software
@@ -10,15 +10,10 @@ Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas** apaixonado por cr
 - 🔭 Atualmente trabalhando em projetos pessoais para expandir meu portfólio
 <br>
 
-## 🛠 Habilidades
+### 🛠 Habilidades
 
-  ### Linguagens
-  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  
-  ### Frameworks e Ferramentas
-  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -28,7 +23,7 @@ Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas** apaixonado por cr
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 <br>
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <table>
   <tr>
@@ -49,13 +44,12 @@ Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas** apaixonado por cr
   </tr>
 </table>
 
-## 💡 Projetos em Destaque
+### 💡 Projetos em Destaque
 
 - [🪐SPM](https://github.com/pedrohmarinho/spmsite) - Site da startup fundada com o objetivo de criar soluções digitais inovadoras
 - [SPM Vision Care 🕶️✨](https://github.com/luizfelipemacedo/spm) - Sistema de gestão para óticas
-<br>
 
-## 🌐 Conecte-se comigo
+### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Pedro%20Marinho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marinho-9b6915204/)
 [![GitHub](https://img.shields.io/badge/-pedrohmarinho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohmarinho)
