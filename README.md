@@ -51,6 +51,6 @@ Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas**. Minha jornada no
 
 ### 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Pedro%20Marinho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marinho-9b6915204/)
-[![GitHub](https://img.shields.io/badge/-pedrohmarinho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohmarinho)
-[![Outlook](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrohomarinho_1104@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marinho-9b6915204/)
+[![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohmarinho)
+[![Outlook](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohomarinho_1104@outlook.com)
